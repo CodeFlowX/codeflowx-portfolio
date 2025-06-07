@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "A dedicated webpage to showcase my recent projects",
   "main": "index.js",
+  "bin": {
+    "codeflowx-portfolio": "./index.js"
+  },
   "scripts": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "start": "serve ."
   },
   "repository": {
     "type": "git",
@@ -20,6 +24,9 @@
     "url": "https://github.com/CodeFlowX/codeflowx-portfolio/issues"
   },
   "homepage": "https://github.com/CodeFlowX/codeflowx-portfolio#readme",
+  "dependencies": {
+    "serve": "^14.2.3"
+  },
   "tea": {
     "name": "CodeFlowX Portfolio",
     "description": "A dedicated webpage to showcase my recent projects",
