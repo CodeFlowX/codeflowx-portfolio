@@ -1,0 +1,14 @@
+name: CodeFlowX Portfolio
+description: A dedicated webpage to showcase my recent projects
+version: 1.0.0
+repository: https://github.com/CodeFlowX/codeflowx-portfolio
+package: codeflowx-portfolio
+category: Web Development
+tags:
+  - portfolio
+  - projects
+  - web development
+contributors:
+  - name: CodeFlowX
+    github: CodeFlowX
+quorum: 1
