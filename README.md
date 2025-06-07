@@ -1,1 +1,6 @@
-A dedicated website to showcase my works
+# CodeFlowX Portfolio
+A dedicated webpage to showcase my recent projects.
+
+## Installation
+```bash
+npm install codeflowx-portfolio
