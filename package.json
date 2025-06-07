@@ -1,0 +1,31 @@
+{
+  "name": "codeflowx-portfolio",
+  "version": "1.0.0",
+  "description": "A dedicated webpage to showcase my recent projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeFlowX/codeflowx-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "projects"
+  ],
+  "author": "CodeFlowX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeFlowX/codeflowx-portfolio/issues"
+  },
+  "homepage": "https://github.com/CodeFlowX/codeflowx-portfolio#readme",
+  "tea": {
+    "name": "CodeFlowX Portfolio",
+    "description": "A dedicated webpage to showcase my recent projects",
+    "version": "1.0.0",
+    "category": "Web Development",
+    "tags": ["portfolio", "projects", "web development"],
+    "repository": "https://github.com/CodeFlowX/codeflowx-portfolio"
+  }
+}
